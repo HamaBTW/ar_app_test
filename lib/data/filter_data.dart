@@ -2,6 +2,7 @@ import '../models/filter.dart';
 
 final filters = [
   Filters(filterPath: 'burning_effect.deepar', imagePath: 'burning_effect.png'),
+  Filters(filterPath: 'sunglasses.deepar', imagePath: 'sunglasses.png'),
   Filters(
       filterPath: 'Neon_Devil_Horns.deepar', imagePath: 'Neon_Devil_Horns.png'),
   Filters(filterPath: '8bitHearts.deepar', imagePath: '8bitHearts.png'),
